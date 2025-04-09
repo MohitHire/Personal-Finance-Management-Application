@@ -1,1 +1,1 @@
-# Personal-Finance-Management-Application
+Smart-Finance-Manager-Application
